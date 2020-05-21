@@ -1,4 +1,4 @@
-# Classe LaTeX (.cls) e exemplo de uso (.tex) de TCC para o Overleaf
+# Classe LaTeX (utfprtex2.cls) e exemplo de uso (main.tex) de TCC para o Overleaf
 
 
 Exemplo baseado no TCC da UTFPR câmpus Pato Branco (UTFPR-PB).
